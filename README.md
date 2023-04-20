@@ -1,3 +1,3 @@
 # Logan_Portfolio
 Example data science portfolio
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
